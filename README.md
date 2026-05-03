@@ -92,13 +92,11 @@ It can help telecom companies identify high-risk customers and improve retention
 
 ---
 
+
 ## 📁 Project Structure
 
-Customer_Churn_Project/
-│
-├── churn_model.ipynb
-├── README.md
-
+- Telco_Customer_Churn_Prediction.ipynb
+- README.md
 ---
 
 ## 👤 Prepared By
